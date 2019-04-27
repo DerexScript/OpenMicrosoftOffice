@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/acess.png</file>
+        <file>img/excel.png</file>
+        <file>img/onenote.png</file>
+        <file>img/outlook.png</file>
+        <file>img/powerpoint.png</file>
+        <file>img/Visio.png</file>
+        <file>img/word.png</file>
+        <file>img/favicon_metro.ico</file>
+        <file>img/OneDrive for Business.png</file>
+        <file>img/Project 2016.png</file>
+        <file>img/Publisher 2016.png</file>
+        <file>img/imgres.png</file>
+    </qresource>
+</RCC>
