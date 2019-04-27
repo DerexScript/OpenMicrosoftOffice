@@ -1,6 +1,6 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
-#include <windows.h>
+#include <Windows.h>
 #include <shellapi.h>
 #include <string.h>
 #include <QMessageBox>
@@ -32,7 +32,6 @@ MainWindow::MainWindow(QWidget *parent) :
     GetCurrentDirectoryA(200, path);
     strcat(path, "\\MicrosoftOffice.ini");
     ofstream configurations;
-
 
     configurations.open(path,ios_base::in); /* Abre para leitura */
         if(!configurations)
