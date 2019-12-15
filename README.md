@@ -13,7 +13,9 @@ Copyright (C) 2012 - 2017 Derex Script (https://github.com/derexscript) e colabo
 
 # Dependencias
 https://support.microsoft.com/pt-br/help/2977003/the-latest-supported-visual-c-downloads
+
 Visual C++ 2017
+
 baixe de acordo com sua arquitetura!
 
 
