@@ -9,7 +9,12 @@ download versão x86 >> https://github.com/DerexScript/OpenMicrosoftOffice/relea
 download versão x64 >> https://github.com/DerexScript/OpenMicrosoftOffice/releases/download/1.1/releaseX64.zip
 
 
-Copyright (C) 2012 - 2017 Bartosz Firyn (https://github.com/sarxos) e colaboradores
+Copyright (C) 2012 - 2017 Derex Script (https://github.com/derexscript) e colaboradores
+
+##Dependencias
+https://support.microsoft.com/pt-br/help/2977003/the-latest-supported-visual-c-downloads
+Visual C++ 2017
+baixe de acordo com sua arquitetura!
 
 
 ## License
